@@ -1,6 +1,6 @@
 # PawLog
 
-PawLog is an application for pet owners to connect and share their experiences and advice about their favourite furry friends. Our application will provide users the ability to interact with a community of like-minded people through the creation of posts about their favourite pet, as well as commenting on and browsing other people’s posts.
+PawLog is an application for pet owners to connect and share their experiences and advice about their loving pets. Our application will provide users the ability to interact with a community of like-minded people through the creation of posts about their favourite pet, as well as commenting on and browsing other people’s posts.
 
 # Table of Contents
 
